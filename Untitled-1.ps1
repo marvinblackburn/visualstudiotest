@@ -4,3 +4,7 @@ mytest
 {the name of the game}
 ((test))
 add a comment
+add another
+add another
+add another
+git 
